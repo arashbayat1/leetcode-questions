@@ -1,4 +1,4 @@
-// Q2 - Add 2 Numbers
+// Q2 - Add 2 Numbers 
 // Runtime - 108 ms - 99.96 percentile
 // Memory - 43.9 MB - 73.36 percentile
 
