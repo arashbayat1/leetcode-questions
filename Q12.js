@@ -1,4 +1,4 @@
-// Q12 - Longest Palindromic Substring
+// Q12 - Integer to Roman
 // Runtime - 148 ms - 93.55 percentile
 // Memory - 43.9 MB - 96.14 percentile
 
