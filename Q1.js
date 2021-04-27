@@ -1,4 +1,4 @@
-// Q2 - Two Sum
+// Q1 - Two Sum
 // Runtime - 72 ms - 93.29 percentile
 // Memory - 38.5 MB - 88.57 percentile
 

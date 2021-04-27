@@ -1,4 +1,4 @@
-// Q2 - Longest Palindromic Substring
+// Q5 - Longest Palindromic Substring
 // Runtime - 88 ms - 99.27 percentile
 // Memory - 41.3 MB - 68.39 percentile
 
